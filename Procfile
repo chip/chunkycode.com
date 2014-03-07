@@ -1,1 +1,1 @@
-web: lapis server heroku
+web: moonc .; lapis server production
